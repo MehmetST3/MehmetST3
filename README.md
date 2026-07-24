@@ -1,12 +1,20 @@
-<h2 align="center">Hi there 👋</h2>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=probably+building+something.;no+idea+why+it+works.;but+somehow%2C+it+does."
-    alt="Typing animation"
-  />
-</p>
+<h2>Hi there 👋</h2>
 
-<p align="center">
-  <sub>mostly building things for myself.</sub>
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1100&color=8B949E&center=true&vCenter=true&width=520&lines=probably+building+something.;mostly+for+myself.;no+idea+why+it+works.;but+somehow%2C+it+does."
+  alt="Typing animation"
+/>
+
+<br>
+
+<samp>status: pretending this was intentional</samp>
+
+<br><br>
+
+<sub>
+  nothing public yet. probably a good sign.
+</sub>
+
+</div>
