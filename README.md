@@ -6,13 +6,46 @@
 
 <br>
 
-### well... not a developer
-
-<sub>occasionally building things that probably shouldn't exist</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/status-just%20chilling-111111">
-<img src="https://img.shields.io/badge/location-Istanbul-111111">
+<samp>building quietly · breaking carefully · keeping the useful parts</samp>
 
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### systems
+
+Small pieces.  
+One stubborn objective.
+
+</td>
+<td width="33%" valign="top">
+
+### hardware
+
+Ideas that eventually  
+have to survive reality.
+
+</td>
+<td width="33%" valign="top">
+
+### experiments
+
+Somewhere between  
+`it works` and `why does it work`.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<sub>no roadmap here. the interesting parts are still behind the curtain.</sub>
+
+</div>
+
